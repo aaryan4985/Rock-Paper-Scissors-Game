@@ -1,0 +1,2 @@
+- Rock Paper Scissors game made using HTML, CSS & Java Script.
+- animations and transitions added to elements.
